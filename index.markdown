@@ -3,10 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 
+title: iTimeZone 4 - World Clock Calculator
 permalink: /
 ---
-# iTimeZone 4 - World Clock Calculator
 
 [![Download on the App Store](Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://itunes.apple.com/us/app/itimezone/id284946233?mt=8)
 
